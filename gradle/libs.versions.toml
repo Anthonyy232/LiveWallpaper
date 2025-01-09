@@ -1,7 +1,7 @@
 [versions]
 androidGradlePlugin = "8.7.1"
 kotlin = "2.0.21"
-hilt = "2.52"
+hilt = "2.55"
 ksp = "2.0.21-1.0.26"
 aboutLibraries = "11.2.3"
 accompanistPermissions = "0.36.0"
