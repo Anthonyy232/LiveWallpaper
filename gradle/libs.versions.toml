@@ -1,6 +1,6 @@
 [versions]
 androidGradlePlugin = "8.7.1"
-kotlin = "2.0.21"
+kotlin = "2.1.10"
 hilt = "2.52"
 ksp = "2.0.21-1.0.26"
 aboutLibraries = "11.2.3"
